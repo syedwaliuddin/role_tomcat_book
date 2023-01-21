@@ -4,3 +4,4 @@
   roles:
     - tomcat
   become: true
+    echo "wali"
